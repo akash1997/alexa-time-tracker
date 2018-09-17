@@ -1,0 +1,1 @@
+The User Name is stored in the database just to enhance the user experience. No data is used for any kind of purposes.
